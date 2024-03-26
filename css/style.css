@@ -1,5 +1,9 @@
 @import url("reset.css");
 
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,regular&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+
 @font-face {
 	font-family: "Proxima Nova Rg";
 	src: url("../fonts/ProximaNova-Regular.woff2") format('woff2'),
@@ -8,10 +12,6 @@
 	font-style: normal;
 	font-display: swap;
 }
-
-@import url("https://fonts.googleapis.com/css?family=Roboto:300,regular&display=swap");
-
-@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
 
 .op,
 .home {
@@ -125,7 +125,7 @@
 
 .explore1 {
 	max-width: 1200px;
-	padding-left: 0px 15px;
+	padding: 0px 15px;
 	margin: 0 auto;
 }
 
